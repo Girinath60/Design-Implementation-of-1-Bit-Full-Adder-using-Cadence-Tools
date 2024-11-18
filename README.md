@@ -116,8 +116,8 @@ Commands to get into Cadence:
   - In the simulation setup, choose transient analysis.
   - Specify the time range for the analysis (start and stop time).
   - Run the simulation and observe the output waveforms
-![Screenshot 2024-11-18 132710](https://github.com/user-attachments/assets/71b89c30-cda4-4a38-a297-243e034ace88)
 
+![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
 
 
 
